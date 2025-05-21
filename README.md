@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9d486ed2-d89a-46fc-9514-a8c91ac85315" alt="my penis" width="300" align="right">
+<img src="https://github.com/user-attachments/assets/481e2e4c-077a-4e2c-b968-dae331836746" alt="my penis" width="300" align="right">
 
 > Novice 16yo reverse engineer. Creating open source projects on Python.
 
