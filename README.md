@@ -4,5 +4,5 @@
 
 - Primarily code in **Python**
 - Novice reverse engineer
-- Learning **C++**
+- Learning **Dlang**
 - Dream of mastering **x86 assembly
